@@ -1,0 +1,13 @@
+name = "TSP"
+uuid = "08b61515-a533-4223-8d51-f16132469d5f"
+authors = ["Theophile Thierry"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
